@@ -1,0 +1,27 @@
+ /* .abc {
+  border-collapse:  collapse;
+  margin: 25px 0;
+  font-size: 0.5cm; 
+  min-width: 400px;
+  border-radius: 5px 5px 0 0;
+  overflow: hidden;
+  box-shadow: 0 0  20px rgba(0, 0, 0, 0.15);
+}
+
+.abc thead tr {
+  background-color: #009879;
+  color: #fff;
+  text-align: center;
+  font-weight: bold;
+}
+.abc tr ,
+.abc td {
+  padding: 12px 15px;
+}
+.abc tbody tr:nth-of-type(even) {
+  background-color: #f3f3f3 
+}
+.abc tbody tr:last-of-type {
+  border-bottom: 2px solid #009879;
+}  */
+
